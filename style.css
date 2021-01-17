@@ -39,14 +39,14 @@
 
 .minute-arm {
     fill: none;
-    stroke: #000;
+    stroke: #243f50;
     stroke-width: 11;
     stroke-miterlimit: 10;
 }
 
 .second-arm {
     fill: none;
-    stroke: #000;
+    stroke: #bd5151;
     stroke-width: 4;
     stroke-miterlimit: 10;
 }
